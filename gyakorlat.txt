@@ -1,0 +1,6 @@
+A letöltött repository-ban dolgozz tovább.
+Készíts egy valasz.txt fájlt.
+Írd bele a saját neved.
+Írj a valasz.txt fálba 6 db verziókövetési parancsot.
+Tölts fel a GITHUB fiókodba a valasz.txt, kerdesek.txt, gyakorlat.txt fájlokat.
+A repository-d elérhetőségét oszd meg a tanároddal!

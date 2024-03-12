@@ -1,0 +1,6 @@
+git commit
+git rebase
+git merge
+git switch
+git tag
+git branch

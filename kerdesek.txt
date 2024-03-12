@@ -1,0 +1,17 @@
+Válaszolj az alábbi kérdésekre:
+
+Írd bele a saját neved!
+Szőnyi Péter
+
+Mi a Git és a GITHUB közötti különbség?
+a githubon tárolhatunk a gitben pedig verziókövrtünk
+
+Mit jelent a repository?
+Tárolóhely
+
+Milyen feladatra jó a GITHUB?
+olyan feladatra amit egyszerre többen is fejlesztenek így folyamatostan lehet verziókövetni.
+
+Mi a stage?
+módosításokat tudunk rögzíteni
+
